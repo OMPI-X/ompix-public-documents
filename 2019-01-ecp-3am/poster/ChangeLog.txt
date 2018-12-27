@@ -1,0 +1,7 @@
+ChangeLog
+---------
+
+- ompix-v01-tjn.pptx
+    - UPDATE: Copied from v01 of poster @ `f4cb84e`
+    - Edit Tech Lead name; Add "Memory Profile" bullets to Perf/Scale list
+
